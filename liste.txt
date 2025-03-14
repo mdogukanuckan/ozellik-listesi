@@ -1,4 +1,5 @@
-1.Mesajlasma
+1.Goruntulu Konusma
 2.Kullanici Protokolu
 3.Takvim Sekmesi
 4.Yapilacaklar Sekmesi
+
